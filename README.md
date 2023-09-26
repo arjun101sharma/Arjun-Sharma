@@ -1,7 +1,7 @@
 # Global Terrorism DataSet
 
 Problem Statement: 
-Using exploratory data analysis (EDA) techniques on the GTD, identify the hot zones of terrorism globally and discern the evolving patterns of terrorist activities. What insights related to security issues can be derived from this analysis that could be instrumental in shaping counter-terrorism strategies?
+By employing exploratory data analysis (EDA) methods on the Global Terrorism Database (GTD), we aim to pinpoint the regions most affected by terrorism worldwide and understand the changing trends in terrorist actions. Through this analysis, we seek to uncover valuable information pertaining to security concerns. This information can then be utilized to inform and influence the development of effective counter-terrorism strategies.
 
 
 Here's the link to download the dataset: https://drive.google.com/file/d/13GvlADbVCBeU9RP6NZVgLM-gW81KLbdk/view
