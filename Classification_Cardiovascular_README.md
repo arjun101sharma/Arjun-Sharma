@@ -33,6 +33,4 @@ Clinical Decision Support: Clinicians can utilize the model's predictions to mak
 
 Conclusion: The development of an accurate and reliable cardiovascular risk prediction model using advanced machine learning techniques has the potential to revolutionize the way we approach cardiovascular disease prevention and management. By leveraging comprehensive datasets and state-of-the-art algorithms, this project aims to provide a valuable tool for personalized healthcare and public health initiatives, ultimately contributing to the reduction of cardiovascular disease burden in the population.
 
-
-
 Here's the link to download the dataset: https://colab.research.google.com/drive/18iNtRALipuwpzDKNYy-8MzvUwkT41xeN?usp=sharinghttps://colab.research.google.com/drive/1gIl5tpHvbAEAy8lwYVB4tioQ0p8AAgxn?usp=sharing
