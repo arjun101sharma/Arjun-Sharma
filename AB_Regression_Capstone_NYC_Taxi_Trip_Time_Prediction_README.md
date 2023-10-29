@@ -11,11 +11,11 @@ Data and Features: The project utilized a diverse dataset encompassing over 1.5 
 
 Methodology: The dataset was randomly split into training and testing sets to facilitate model training and evaluation. Several machine learning algorithms, including Linear Regression, Decision Trees, Random Forest, Gradient Boosting, and XGBoost, were explored. The model's performance was assessed using metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), R2 Score, and Adjusted R2 Score.
 
-Results: The regression model emerged as the top performer, surpassing other algorithms in accuracy. It achieved an impressive R2 score of 67%, indicating its strong predictive capabilities. The model's accuracy was further validated through comparisons with alternative machine learning approaches.
+Results: The regression model emerged as the top performer, surpassing other algorithms in accuracy. It achieved an impressive R2 score of 60%, indicating its strong predictive capabilities. The model's accuracy was further validated through comparisons with alternative machine learning approaches.
 
 Conclusion: The NYC Taxi Time Prediction project showcased the potential of regression models in accurately forecasting taxi trip durations. By leveraging a combination of location data, temporal information, and weather conditions, the model demonstrated its effectiveness in capturing the complexities of New York City taxi journeys. This project not only highlights the power of predictive analytics in the transportation sector but also underscores the significance of feature selection and algorithm choice in enhancing prediction accuracy.
 
-Problem Statement:
+# Problem Statement:
 
 The New York City (NYC) Taxi Trip Time Duration prediction project faces several challenges and observations that require careful consideration and strategic solutions. The primary concerns include the presence of outliers in the dataset, potential overfitting of models, and the impact of data removal on model performance.
 
